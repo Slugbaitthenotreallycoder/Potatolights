@@ -1,0 +1,19 @@
+{
+	"objectName" : "potatolight",
+	"rarity" : "common",
+	"description" : "potatolight",
+	"shortdescription" : "potatolight",
+	"race" : "generic",
+	"category" : "furniture",
+	"price" : "20",
+
+	"apexdescription" : "potatolight",
+	"avianDescription" : "potatolight",
+	"floranDescription" : "potatolight",
+	"glitchDescription" : "potatolight",
+	"humanDescription" : "potatolight",
+	"hylotlDescription" : "potatolight",
+	"novakidDescription" : "potatolight",
+
+	"inventoryIcon" : "potatolight.png"
+}
